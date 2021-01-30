@@ -11,7 +11,7 @@ Finder "Quick Action" to convert powerpoint files to pdf using Automator and a b
 ### Option 2:
 ```bash
 cd ~/Library/Services
-wget https://github.com/dkmar/pptx-to-pdf/raw/master/PptxToPDF.workflow.zip
+wget https://github.com/dkmar/pptx-to-pdf/raw/main/PptxToPDF.workflow.zip
 tar xf PptxToPDF.workflow.zip && rm -r PptxToPDF.workflow.zip
 ```
 ## Basic Automator Workflow
